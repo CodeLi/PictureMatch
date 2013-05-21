@@ -1,6 +1,6 @@
 #-------------------------------------------------
 #
-# Project created by QtCreator 2013-04-24T13:17:19
+# Project created by QtCreator 2013-04-20T16:42:26
 #
 #-------------------------------------------------
 
@@ -13,9 +13,9 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        picturematch.cpp
+        widget.cpp
 
-HEADERS  += picturematch.h
+HEADERS  += widget.h
 
 RESOURCES += \
-    PictureMatchSrc.qrc
+    PictureMatch.qrc
